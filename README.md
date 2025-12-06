@@ -1,1 +1,1 @@
-It is project whether placement has done or not done based on CGPA.
+This project is done based on whether placement has done or not done baseed on CGPA and Iq.
